@@ -1,0 +1,4 @@
+{
+"FIVE_PERCENT_DISCOUNT":{ "type": "FIVE_PERCENT_DISCOUNT", "barcodes": [ "ITEM000001" ]},
+"TEN_PERCENT_DISCOUNT":{ "type": "TEN_PERCENT_DISCOUNT", "barcodes": [ "ITEM000003"]}
+}
